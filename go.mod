@@ -23,7 +23,7 @@ require (
 	go.opencensus.io v0.23.0
 	go.uber.org/multierr v1.7.0 // indirect
 	go.uber.org/zap v1.19.1
-	golang.org/x/net v0.0.0-20210917221730-978cfadd31cf // indirect
+	golang.org/x/net v0.17.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
 	gomodules.xyz/jsonpatch/v2 v2.2.0
 	gopkg.in/check.v1 v1.0.0-20200902074654-038fdea0a05b // indirect
