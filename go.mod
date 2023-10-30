@@ -5,7 +5,7 @@ go 1.13
 require (
 	github.com/cloudevents/sdk-go/v2 v2.5.0
 	github.com/docker/cli v20.10.8+incompatible // indirect
-	github.com/docker/docker v20.10.8+incompatible // indirect
+	github.com/docker/docker v24.0.7+incompatible // indirect
 	github.com/emicklei/go-restful v2.15.0+incompatible // indirect
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/spec v0.20.2
